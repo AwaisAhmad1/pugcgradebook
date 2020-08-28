@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="856436d0-e957-4c43-8ab5-643dcbad74a9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1aJcIkGdMqN54LsFadUIxEW7840" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="python.debugger.dataview.coloredbydefault" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\pugcgradebook\PUGCGRADEBOOK\accounts\static" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.StudentViews">
+    <configuration name="add_program_template.html" type="JavascriptDebugType" uri="http://localhost:63342/PUGCGRADEBOOK/accounts/templates/admin_template/add_course_template.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="edit_program_template.html" type="JavascriptDebugType" uri="http://localhost:63342/PUGCGRADEBOOK/accounts/templates/admin_template/edit_course_template.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="StudentViews" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PUGCGRADEBOOK" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/accounts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/accounts/StudentViews.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="PUGCGRADEBOOK" type="Python.DjangoServer" factoryName="Django server">
+      <module name="PUGCGRADEBOOK" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="PUGCGRADEBOOK.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.StudentViews" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="856436d0-e957-4c43-8ab5-643dcbad74a9" name="Default Changelist" comment="" />
+      <created>1586457059920</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586457059920</updated>
+      <workItem from="1586457061423" duration="6780000" />
+      <workItem from="1586474402217" duration="4181000" />
+      <workItem from="1586672518980" duration="2048000" />
+      <workItem from="1586880105095" duration="8395000" />
+      <workItem from="1586986474815" duration="3274000" />
+      <workItem from="1587070529554" duration="11706000" />
+      <workItem from="1587130458676" duration="4864000" />
+      <workItem from="1587166477581" duration="2387000" />
+      <workItem from="1587177968432" duration="288000" />
+      <workItem from="1587179392038" duration="4132000" />
+      <workItem from="1587289965331" duration="619000" />
+      <workItem from="1587446376600" duration="9947000" />
+      <workItem from="1587536534334" duration="6064000" />
+      <workItem from="1587555880259" duration="1185000" />
+      <workItem from="1587651622499" duration="823000" />
+      <workItem from="1587809638210" duration="13853000" />
+      <workItem from="1587831355303" duration="2124000" />
+      <workItem from="1587893750922" duration="8884000" />
+      <workItem from="1587981823443" duration="15235000" />
+      <workItem from="1588010592323" duration="93000" />
+      <workItem from="1588010750808" duration="210000" />
+      <workItem from="1588011188786" duration="125000" />
+      <workItem from="1588067759364" duration="19260000" />
+      <workItem from="1588157085406" duration="7693000" />
+      <workItem from="1588177075856" duration="12522000" />
+      <workItem from="1588241186276" duration="7002000" />
+      <workItem from="1588263721763" duration="546000" />
+      <workItem from="1588282393884" duration="391000" />
+      <workItem from="1588416333916" duration="410000" />
+      <workItem from="1588419534665" duration="4692000" />
+      <workItem from="1588843878893" duration="2403000" />
+      <workItem from="1588847188263" duration="2784000" />
+      <workItem from="1588869795469" duration="10274000" />
+      <workItem from="1589019024804" duration="18918000" />
+      <workItem from="1589100611391" duration="6893000" />
+      <workItem from="1589141306752" duration="104000" />
+      <workItem from="1589188695137" duration="10280000" />
+      <workItem from="1589209149399" duration="646000" />
+      <workItem from="1589210054007" duration="7360000" />
+      <workItem from="1589223644159" duration="339000" />
+      <workItem from="1589363333396" duration="2447000" />
+      <workItem from="1589366191816" duration="786000" />
+      <workItem from="1589367098232" duration="9938000" />
+      <workItem from="1593663394450" duration="91000" />
+      <workItem from="1593663486249" duration="167000" />
+      <workItem from="1593663691878" duration="216000" />
+      <workItem from="1593663945453" duration="752000" />
+      <workItem from="1593664711295" duration="14110000" />
+      <workItem from="1593719197623" duration="571000" />
+      <workItem from="1593772242993" duration="20215000" />
+      <workItem from="1593926446230" duration="2621000" />
+      <workItem from="1596101815285" duration="6699000" />
+      <workItem from="1596112456886" duration="217000" />
+      <workItem from="1597384423190" duration="13316000" />
+      <workItem from="1597472671816" duration="10044000" />
+      <workItem from="1597557457301" duration="6994000" />
+      <workItem from="1597576870425" duration="1966000" />
+      <workItem from="1597588450965" duration="10309000" />
+      <workItem from="1597633298879" duration="4754000" />
+      <workItem from="1598018297731" duration="457000" />
+      <workItem from="1598554127720" duration="762000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586476137400">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1586476137400" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1593663483189">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1593663483189" />
+    <state width="1478" height="208" key="GridCell.Tab.0.bottom" timestamp="1587186660071">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="208" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587186660071" />
+    <state width="1478" height="208" key="GridCell.Tab.0.center" timestamp="1587186660071">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="208" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1587186660071" />
+    <state width="1478" height="208" key="GridCell.Tab.0.left" timestamp="1587186660071">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="208" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1587186660071" />
+    <state width="1478" height="208" key="GridCell.Tab.0.right" timestamp="1587186660071">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="208" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1587186660071" />
+    <state x="277" y="55" key="SettingsEditor" timestamp="1593663422280">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1593663422280" />
+  </component>
+</project>

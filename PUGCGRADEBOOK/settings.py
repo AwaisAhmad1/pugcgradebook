@@ -130,8 +130,8 @@ AUTHENTICATION_BACKENDS =['accounts.EmailBackEnd.EmailBackEnd']
 #EMAIL_FILE_PATH = os.path.join(BASE_DIR, "sent_mails")
 
 EMAIL_HOST="smtp.gmail.com"
-EMAIL_HOST_USER = "withawais@gmail.com"
-EMAIL_HOST_PASSWORD = "maBM*#884"
+EMAIL_HOST_USER = "#"
+EMAIL_HOST_PASSWORD = "#"
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
 DEFAULT_FROM_EMAIL ="PUGC GradeBook <withawais@gmail.com>"
